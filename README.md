@@ -4,6 +4,8 @@
 ## Description
 The Weather App that allows users to search for weather information of any location. It provides real-time weather data such as temperature, wind speed, humidity, and more.
 
+#weather360 url: https://weather360-app.netlify.app/
+
 ## Features
 - Dynamic search functionality to retrieve weather data for any location
 - Real-time weather updates with accurate data from the API
